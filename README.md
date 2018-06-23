@@ -1,4 +1,4 @@
-### * [Source Files for the project](https://github.com/deepanshu96/t2carp3/tree/master/src)
+ * [Source Files for the project](https://github.com/deepanshu96/t2carp3/tree/master/src)
 
 
 ## Project Introduction
